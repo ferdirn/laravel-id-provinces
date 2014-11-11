@@ -4,7 +4,7 @@
 [![Latest Stable Version](https://poser.pugx.org/ferdirn/laravel-id-provinces/v/stable.svg)](https://packagist.org/packages/ferdirn/laravel-id-provinces)
 [![Latest Unstable Version](https://poser.pugx.org/ferdirn/laravel-id-provinces/v/unstable.svg)](https://packagist.org/packages/ferdirn/laravel-id-provinces)
 
-Laravel ID Provinces is a package for Laravel to supply all provinces data in Indonesia to table provinces including province name, country code, capital, and area in km square.
+Laravel ID Provinces is a package for Laravel to supply all provinces data in Indonesia to table provinces including province name, country code, capital, and area in square km.
 
 Required package:
 
