@@ -1,0 +1,39 @@
+{
+	"name" : "ferdirn/laravel-id-provinces",
+	"description" : "Laravel ID Provinces is a package for Laravel to supply all provinces data in Indonesia to table provinces including province name, country code, capital, and area in km square.",
+	"type" : "laravel-package",
+	"authors" : [{
+			"name" : "Ferdi Ramdhon",
+			"email" : "ferdirn@gmail.com",
+			"homepage" : "https://github.com/ferdirn",
+			"role" : "developer"
+		}
+	],
+	"keywords" : [
+		"laravel",
+		"provinces",
+		"capital",
+		"area"
+	],
+	"homepage" : "https://github.com/ferdirn/laravel-id-provinces",
+	"license" : [
+		"MIT"
+	],
+	"require" : {
+		"php" : ">=5.3.0",
+		"ferdirn/laravel-id-countries" : ">=1.1"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Ferdirn\\Provinces" : "src/"
+		},
+		"classmap" : [
+			"src/commands"
+		]
+	},
+	"minimum-stability" : "dev",
+	"support" : {
+		"source" : "https://github.com/ferdirn/laravel-id-provinces",
+		"issues" : "https://github.com/ferdirn/laravel-id-provinces/issues"
+	}
+}
