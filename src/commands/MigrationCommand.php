@@ -41,6 +41,8 @@ class MigrationCommand extends Command {
     public function fire()
     {
         $this->line('');
+        $this->info('Welcome to package ferdirn/laravel-id-provinces');
+        $this->line('');
         $this->info('The migration file will create a table provinces and a seeder for the provinces data');
 
         $this->line('');
