@@ -1,234 +1,234 @@
 {
 	"1":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Nanggroe Aceh Darussalam",
 		"capital":"Banda Aceh",
 		"area_km2":57956.00
 	},
 	"2":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sumatera Utara",
 		"capital":"Medan",
 		"area_km2":72981.23
 	},
 	"3":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sumatera Barat",
 		"capital":"Padang",
 		"area_km2":42012.89
 	},
 	"4":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Riau",
 		"capital":"Pekanbaru",
 		"area_km2":87023.66
 	},
 	"5":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Kep Riau",
 		"capital":"Tanjung Pinang",
 		"area_km2":8201.72
 	},
 	"6":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Jambi",
 		"capital":"Jambi",
 		"area_km2":50058.16
 	},
 	"7":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sumatera Selatan",
 		"capital":"Palembang",
 		"area_km2":91592.43
 	},
 	"8":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Bangka Belitung",
 		"capital":"Pangkal Pinang",
 		"area_km2":16424.06
 	},
 	"9":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Bengkulu",
 		"capital":"Bengkulu",
 		"area_km2":19919.33
 	},
 	"10":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Lampung",
 		"capital":"Bandar Lampung",
 		"area_km2":34623.80
 	},
 	"11":{
-		"country_id":360,
+		"country_id":516,
 		"name":"DKI Jakarta",
 		"capital":"Jakarta",
 		"area_km2":664.01
 	},
 	"12":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Jawa Barat",
 		"capital":"Bandung",
 		"area_km2":35377.76
 	},
 	"13":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Banten",
 		"capital":"Serang",
 		"area_km2":9662.92
 	},
 	"14":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Jawa Tengah",
 		"capital":"Semarang",
 		"area_km2":32800.69
 	},
 	"15":{
-		"country_id":360,
+		"country_id":516,
 		"name":"DI Yogyakarta",
 		"capital":"Yogyakarta",
 		"area_km2":3133.15
 	},
 	"16":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Jawa Timur",
 		"capital":"Surabaya",
 		"area_km2":47799.75
 	},
 	"17":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Bali",
 		"capital":"Denpasar",
 		"area_km2":5780.06
 	},
 	"18":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Nusa Tenggara Barat",
 		"capital":"Mataram",
 		"area_km2":18572.32
 	},
 	"19":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Nusa Tenggara Timur",
 		"capital":"Kupang",
 		"area_km2":48718.10
 	},
 	"20":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Kalimantan Utara",
 		"capital":"Tanjung Selor",
 		"area_km2":85618.00
 	},
 	"21":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Kalimantan Barat",
 		"capital":"Pontianak",
 		"area_km2":147307.00
 	},
 	"22":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Kalimantan Tengah",
 		"capital":"Palangkaraya",
 		"area_km2":153564.50
 	},
 	"23":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Kalimantan Selatan",
 		"capital":"Banjarmasin",
 		"area_km2":38744.23
 	},
 	"24":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Kalimantan Timur",
 		"capital":"Samarinda",
 		"area_km2":204534.34
 	},
 	"25":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sulawesi Utara",
 		"capital":"Manado",
 		"area_km2":13851.64
 	},
 	"26":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sulawesi Barat",
 		"capital":"Mamuju",
 		"area_km2":16787.18
 	},
 	"27":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sulawesi Tengah",
 		"capital":"Palu",
 		"area_km2":61841.29
 	},
 	"28":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sulawesi Tenggara",
 		"capital":"Kendari",
 		"area_km2":38067.70
 	},
 	"29":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Sulawesi Selatan",
 		"capital":"Makassar",
 		"area_km2":46717.48
 	},
 	"30":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Gorontalo",
 		"capital":"Gorontalo",
 		"area_km2":11257.07
 	},
 	"31":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Maluku",
 		"capital":"Ambon",
 		"area_km2":46914.03
 	},
 	"32":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Maluku Utara",
 		"capital":"Ternate",
 		"area_km2":31982.50
 	},
 	"33":{
-		"country_id":360,
-		"name":"Papua Barat",
-		"capital":"Manokwari",
-		"area_km2":99671.63
-	},
-	"34":{
-		"country_id":360,
+		"country_id":516,
 		"name":"Papua",
 		"capital":"Jayapura",
 		"area_km2":319036.05
 	},
+	"34":{
+		"country_id":516,
+		"name":"Papua Barat",
+		"capital":"Manokwari",
+		"area_km2":99671.63
+	},
 	"35":{
-		"country_id":702,
+		"country_id":996,
 		"name":"Central Singapore",
 		"capital":"Bukit Merah",
 		"area_km2":132.70
 	},
 	"36":{
-		"country_id":702,
+		"country_id":996,
 		"name":"North East Singapore",
 		"capital":"Huogang",
 		"area_km2":141.10
 	},
 	"37":{
-		"country_id":702,
+		"country_id":996,
 		"name":"North Singapore",
 		"capital":"Woodlands",
 		"area_km2":97.30
 	},
 	"38":{
-		"country_id":702,
+		"country_id":996,
 		"name":"East Singapore",
 		"capital":"Bedok",
 		"area_km2":93.10
 	},
 	"39":{
-		"country_id":702,
+		"country_id":996,
 		"name":"West Singapore",
 		"capital":"Jurong West",
 		"area_km2":201.30
